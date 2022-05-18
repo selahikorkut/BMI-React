@@ -2,7 +2,7 @@
 
 
 # Body Mass Index Calculator
-With this application, users can calculate their body mass index by entering their height and weight. According to the result, a diet list is given to the user.
+With this application, users can calculate their body mass index by entering their height and weight.
 
 # Screenshots
 
