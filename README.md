@@ -1,4 +1,8 @@
-# [Live Preview](https://bmi-msy.netlify.app/)
+# [Live Preview]([https://bmi-msy.netlify.app/](https://bejewelled-monstera-22d6d4.netlify.app/))
+
+
+# Body Mass Index Calculator
+With this application, users can calculate their body mass index by entering their height and weight. According to the result, a diet list is given to the user.
 
 # Screenshots
 
